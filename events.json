@@ -6,6 +6,7 @@
         "Players":    "82",
         "Location":   "Online",
         "HasEnded":   "true",
+        "Link":       "",
         "1st": [{   
             "Name": "1stPlaceDuelist",
             "Deck": "Blackwing"
