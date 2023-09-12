@@ -7,35 +7,35 @@
         "Location":   "Online",
         "HasEnded":   "true",
         "Link":       "",
-        "1st": [{   
+        "First": [{   
             "Name": "1stPlaceDuelist",
             "Deck": "Blackwing"
         }],
-        "2nd": [{   
+        "Second": [{   
             "Name": "1stPlaceDuelist",
             "Deck": "Blackwing"
         }],
-        "3rd": [{   
+        "Third": [{   
             "Name": "1stPlaceDuelist",
             "Deck": "Blackwing"
         }],
-        "4th": [{   
+        "Fourth": [{   
             "Name": "1stPlaceDuelist",
             "Deck": "Blackwing"
         }],
-        "5th": [{   
+        "Fifth": [{   
             "Name": "1stPlaceDuelist",
             "Deck": "Blackwing"
         }],
-        "6th": [{   
+        "Sixth": [{   
             "Name": "1stPlaceDuelist",
             "Deck": "Blackwing"
         }],
-        "7th": [{   
+        "Seventh": [{   
             "Name": "1stPlaceDuelist",
             "Deck": "Blackwing"
         }],
-        "8th": [{   
+        "Eighth": [{   
             "Name": "1stPlaceDuelist",
             "Deck": "Blackwing"
         }]
