@@ -1,82 +1,45 @@
 [
     {
-        "EventName": "World Championship Qualifier",
-        "Date":      "5th August 2023",
-        "ID":        "EWCQ03",
-        "EntryFee":  "Free",
-        "Link":      "https://discord.gg/formatlibrary",
-        "Location":  "Online",
-        "HasEnded":  false,
-        "Players":   "",
-        "TopCut": [
-            {       "Name": "james arc",
-                    "Deck": "Volcanic"
-            },
-            {       "Name": "lorem ipsum",
-                    "Deck": "Quickdraw"
-            },
-            {       "Name": "Testfor verylongname",
-                    "Deck": "X-Saber"
-            },
-            {       "Name": "rate",
-                    "Deck": "X-Saber"
-            },
-
-            {       "Name": "roghnach",
-                    "Deck": "Controld deck"
-            },
-            {       "Name": "Jazz",
-                    "Deck": "Deck with verylongname"
-            },
-            {       "Name": "items onmydesk",
-                    "Deck": "Dive Hero Beat"
-            },
-            {       "Name": "asdf jghjhkl",
-                    "Deck": "DAD"
-            }
-        ]
-    },
-    {
-        "EventName": "R.B.E.T. 3",
-        "Date":      "19th August 2023",
-        "ID":        "RBET03",
-        "EntryFee":  "Paid",
+        "EventName": "R.B.E.T. 7",
+        "Date":      "30th June 2023",
+        "ID":        "RBET07",
+        "EntryFee":  "Unknown",
         "Link":      "https://www.youtube.com/@E3YuGiOh/featured",
-        "Location":  "Moreno Valley, CA",
+        "Location":  "Unknown",
         "HasEnded":  false,
         "Players":   "",
         "TopCut": [
-            {       "Name": "1stPlaceDuelist",
-                    "Deck": "1stPlaceDeckName"
+            {       "Name": "Ghostrider15",
+                    "Deck": "Dragon Turbo"
             },
-            {       "Name": "2ndPlaceDuelist",
-                    "Deck": "2ndPlaceDeckName"
+            {       "Name": "Duck Tracey",
+                    "Deck": "Blackwing"
             },
-            {       "Name": "3rdPlaceDuelist",
-                    "Deck": "3rdPlaceDeckName"
+            {       "Name": "ATrueHero",
+                    "Deck": "Hybrid"
             },
-            {       "Name": "4thPlaceDuelist",
-                    "Deck": "4thPlaceDeckName"
+            {       "Name": "ChaiTea",
+                    "Deck": "Zombie Diva Hero"
             },
 
-            {       "Name": "5thPlaceDuelist",
-                    "Deck": "5thPlaceDeckName"
+            {       "Name": "Barcode",
+                    "Deck": "Neo-Spacian"
             },
-            {       "Name": "6thPlaceDuelist",
-                    "Deck": "6thPlaceDeckName"
+            {       "Name": "Diego",
+                    "Deck": "Junk Frog Monarch"
             },
-            {       "Name": "7thPlaceDuelist",
-                    "Deck": "7thPlaceDeckName"
+            {       "Name": "Kapachi",
+                    "Deck": "Blackwing"
             },
-            {       "Name": "8thPlaceDuelist",
-                    "Deck": "8thPlaceDeckName"
+            {       "Name": "Yondaime",
+                    "Deck": "Blackwing"
             }
         ]
     },
     {
-        "EventName": "Deck Devastator 3",
+        "EventName": "Deck Devastators 5",
         "Date":      "2nd September 2023",
-        "ID":        "DDEV06",
+        "ID":        "DDEV05",
         "EntryFee":  "Free",
         "Link":      "https://discord.gg/EbpQ86GXx3",
         "Location":  "Online",
@@ -84,68 +47,31 @@
         "Players":   "",
 
         "TopCut": [
-            {       "Name": "1stPlaceDuelist",
-                    "Deck": "1stPlaceDeckName"
+            {       "Name": "rykoko7",
+                    "Deck": "Blackwing"
             },
-            {       "Name": "2ndPlaceDuelist",
-                    "Deck": "2ndPlaceDeckName"
+            {       "Name": "samoopusteno",
+                    "Deck": "Vayu Turbo"
             },
-            {       "Name": "3rdPlaceDuelist",
-                    "Deck": "3rdPlaceDeckName"
+            {       "Name": "Ghostrider15",
+                    "Deck": "Dragon Turbo"
             },
-            {       "Name": "4thPlaceDuelist",
-                    "Deck": "4thPlaceDeckName"
+            {       "Name": "Roger Smith",
+                    "Deck": "Blackwing"
             },
 
-            {       "Name": "5thPlaceDuelist",
-                    "Deck": "5thPlaceDeckName"
+            {       "Name": "masharose",
+                    "Deck": "Vayu Turbo"
             },
-            {       "Name": "6thPlaceDuelist",
-                    "Deck": "6thPlaceDeckName"
-            },
-            {       "Name": "7thPlaceDuelist",
-                    "Deck": "7thPlaceDeckName"
-            },
-            {       "Name": "8thPlaceDuelist",
-                    "Deck": "8thPlaceDeckName"
-            }
-        ]
-    },
-    {
-        "EventName": "Super Secret RoD tournament",
-        "Date":      "4th September 2023",
-        "ID":        "RoD01",
-        "EntryFee":  "Free",
-        "Link":      "",
-        "Location":  "Online",
-        "HasEnded":  true,
-        "Players":   "8",
-
-        "TopCut": [
-            {       "Name": "Randage",
-                    "Deck": "Black Salvo"
+            {       "Name": "Pana2525",
+                    "Deck": "Kozaky Dragon Turbo"
             },
             {       "Name": "Roghnach",
-                    "Deck": "Geartown Frogs"
+                    "Deck": "Geartown Frog"
             },
-            {       "Name": "Fusion",
-                    "Deck": "Wall Deck"
-            },
-            {       "Name": "Hydropump",
-                    "Deck": "Blastoise Rain Dance"
-            },
-            
-            {       "Name": "Jaina",
-                    "Deck": "Fairy"
-            },
-            {       "Name": "Mika",
-                    "Deck": "Counter Trap X-Saber"
-            },
-            {       "Name": "FayeV",
-                    "Deck": "Library"
-            },
-            {       "Name": "Prostorm",
-                    "Deck": "HERO Beat"
-            }]
+            {       "Name": "dartx",
+                    "Deck": "Zombie WelleDAD"
+            }
+        ]
     }
 ]
