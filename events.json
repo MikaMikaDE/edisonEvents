@@ -9,30 +9,30 @@
         "HasEnded":  false,
         "Players":   "",
         "TopCut": [
-            {       "Name": "1stPlaceDuelist",
-                    "Deck": "1stPlaceDeckName"
+            {       "Name": "james arc",
+                    "Deck": "Snackmuay"
             },
-            {       "Name": "2ndPlaceDuelist",
-                    "Deck": "2ndPlaceDeckName"
+            {       "Name": "lorem ipsum",
+                    "Deck": "Dolor sit Amet"
             },
-            {       "Name": "3rdPlaceDuelist",
-                    "Deck": "3rdPlaceDeckName"
+            {       "Name": "Testfor verylongname",
+                    "Deck": "testificate"
             },
-            {       "Name": "4thPlaceDuelist",
-                    "Deck": "4thPlaceDeckName"
+            {       "Name": "rate",
+                    "Deck": "xenomorph"
             },
 
-            {       "Name": "5thPlaceDuelist",
-                    "Deck": "5thPlaceDeckName"
+            {       "Name": "roghnach",
+                    "Deck": "roghsnack"
             },
-            {       "Name": "6thPlaceDuelist",
-                    "Deck": "6thPlaceDeckName"
+            {       "Name": "Jazz",
+                    "Deck": "Card longnose"
             },
-            {       "Name": "7thPlaceDuelist",
-                    "Deck": "7thPlaceDeckName"
+            {       "Name": "items onmydesk",
+                    "Deck": "Sniper's Dream"
             },
-            {       "Name": "8thPlaceDuelist",
-                    "Deck": "8thPlaceDeckName"
+            {       "Name": "asdf jghjhkl",
+                    "Deck": "31415926535"
             }
         ]
     },
