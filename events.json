@@ -1,4 +1,41 @@
 [
-{ 
-}
+    { 
+        "EventName": "Super awesome edison tournament 7",
+        "HasEnded":  "true",
+        "Date":      "2023/09/12",
+        "Players":   "82",
+        "Location":  "Online",
+        "1st": {   
+            "Name": "1stPlaceDuelist",
+            "Deck": "Blackwing",
+        },
+        "2nd": {   
+            "Name": "2ndPlaceDuelist",
+            "Deck": "Blackwing"
+        },
+        "3rd": {   
+            "Name": "3rdPlaceDuelist",
+            "Deck": "Blackwing"
+        },
+        "4th": {   
+            "Name": "4thPlaceDuelist",
+            "Deck": "Blackwing"
+        },
+        "5th": {   
+            "Name": "5thPlaceDuelist",
+            "Deck": "Blackwing"
+        },
+        "6th": {   
+            "Name": "6thPlaceDuelist",
+            "Deck": "Blackwing"
+        },
+        "7th": {   
+            "Name": "7thPlaceDuelist",
+            "Deck": "Blackwing"
+        },
+        "8th": {   
+            "Name": "8thPlaceDuelist",
+            "Deck": "Blackwing"
+        }
+    }
 ]
