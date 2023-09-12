@@ -1,9 +1,50 @@
 [
     { 
         "EventName":  "Super awesome edison tournament 7",
-        "Background": "https://www.deviantart.com/nhociory/art/Blackwing-Sirocco-the-Dawn-Artwork-916134559",
+        "Background": "Blackwing - Bora the Spear",
         "Date":       "2023/09/12",
         "Players":    "82",
+        "Location":   "Online",
+        "HasEnded":   "true",
+        "1st": [{   
+            "Name": "1stPlaceDuelist",
+            "Deck": "Blackwing"
+        }],
+        "2nd": [{   
+            "Name": "1stPlaceDuelist",
+            "Deck": "Blackwing"
+        }],
+        "3rd": [{   
+            "Name": "1stPlaceDuelist",
+            "Deck": "Blackwing"
+        }],
+        "4th": [{   
+            "Name": "1stPlaceDuelist",
+            "Deck": "Blackwing"
+        }],
+        "5th": [{   
+            "Name": "1stPlaceDuelist",
+            "Deck": "Blackwing"
+        }],
+        "6th": [{   
+            "Name": "1stPlaceDuelist",
+            "Deck": "Blackwing"
+        }],
+        "7th": [{   
+            "Name": "1stPlaceDuelist",
+            "Deck": "Blackwing"
+        }],
+        "8th": [{   
+            "Name": "1stPlaceDuelist",
+            "Deck": "Blackwing"
+        }]
+    },
+
+    { 
+        "EventName":  "Super awesome edison tournament OLD",
+        "Background": "Junk Synchron",
+        "Date":       "2022/11/31",
+        "Players":    "234",
         "Location":   "Online",
         "HasEnded":   "true",
         "1st": [{   
