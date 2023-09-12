@@ -1,6 +1,6 @@
 [
     {
-        "EventName": "Edison World Championshop Qualifier",
+        "EventName": "World Championship Qualifier",
         "Date":      "5th August 2023",
         "ID":        "EWCQ03",
         "EntryFee":  "Free",
@@ -37,7 +37,7 @@
         ]
     },
     {
-        "EventName": "R.B.E.T. (Really Big Edison Tournament)",
+        "EventName": "R.B.E.T. 3",
         "Date":      "19th August 2023",
         "ID":        "RBET03",
         "EntryFee":  "Paid",
@@ -74,7 +74,7 @@
         ]
     },
     {
-        "EventName": "Deck Devastator",
+        "EventName": "Deck Devastator 3",
         "Date":      "2nd September 2023",
         "ID":        "DDEV06",
         "EntryFee":  "Free",
@@ -112,7 +112,7 @@
         ]
     },
     {
-        "EventName": "Super secret RoD tournament (this really actually definately existed and is not just example)",
+        "EventName": "Super Secret RoD tournament",
         "Date":      "4th September 2023",
         "ID":        "RoD01",
         "EntryFee":  "Free",
