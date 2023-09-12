@@ -1,89 +1,78 @@
 [
     {
         "EventName": "Super awesome edison tournament 7",
-        "Background": "Blackwing - Bora the Spear",
-        "Date": "2023/09/12",
-        "Players": "82",
-        "Location": "Online",
-        "HasEnded": "true",
-        "Link": "",
+        "Date":      "12th September 2023",
+        "Logo":      "Format Library",
+        "Link":      "",
+
+        "Location":  "Online",
+        "HasEnded":  "true",
+        "Players":   "82",
+
         "TopCut": [
-            {
-                "Name": "1stPlaceDuelist",
-                "Deck": "Blackwing"
+            {       "Name": "1stPlaceDuelist",
+                    "Deck": "Blackwing"
             },
-            {
-                "Name": "2ndPlaceDuelist",
-                "Deck": "X-Saber"
+            {       "Name": "2ndPlaceDuelist",
+                    "Deck": "X-Saber"
             },
-            {
-                "Name": "3rdPlaceDuelist",
-                "Deck": "Junk"
+            {       "Name": "3rdPlaceDuelist",
+                    "Deck": "Junk"
             },
-            {
-                "Name": "4thPlaceDuelist",
-                "Deck": "Blackwing"
+            {       "Name": "4thPlaceDuelist",
+                    "Deck": "Blackwing"
             },
-            {
-                "Name": "5thPlaceDuelist",
-                "Deck": "Blackwing"
+
+            {       "Name": "5thPlaceDuelist",
+                    "Deck": "Blackwing"
             },
-            {
-                "Name": "6thPlaceDuelist",
-                "Deck": "Blackwing"
+            {       "Name": "6thPlaceDuelist",
+                    "Deck": "Blackwing"
             },
-            {
-                "Name": "7thPlaceDuelist",
-                "Deck": "Blackwing"
+            {       "Name": "7thPlaceDuelist",
+                    "Deck": "Blackwing"
             },
-            {
-                "Name": "8thPlaceDuelist",
-                "Deck": "Blackwing"
+            {       "Name": "8thPlaceDuelist",
+                    "Deck": "Blackwing"
             }
         ]
     },
 
     {
-        "EventName": "Super awesome edison tournament 7",
-        "Background": "Blackwing - Bora the Spear",
-        "Date": "2023/09/12",
-        "Players": "82",
-        "Location": "Online",
-        "HasEnded": "true",
-        "Link": "",
+        "EventName": "ONLY rescue cat tournament (no other cards allow)",
+        "Date":      "4th September 2023",
+        "Logo":      "Deck Devastator",
+        "Link":      "",
+
+        "Location":  "Online",
+        "HasEnded":  "true",
+        "Players":   "123",
+
         "TopCut": [
-            {
-                "Name": "1stPlaceDuelist",
-                "Deck": "Blackwing"
+            {       "Name": "1stPlaceDuelist",
+                    "Deck": "Blackwing"
             },
-            {
-                "Name": "2ndPlaceDuelist",
-                "Deck": "X-Saber"
+            {       "Name": "2ndPlaceDuelist",
+                    "Deck": "X-Saber"
             },
-            {
-                "Name": "3rdPlaceDuelist",
-                "Deck": "Junk"
+            {       "Name": "3rdPlaceDuelist",
+                    "Deck": "Junk"
             },
-            {
-                "Name": "4thPlaceDuelist",
-                "Deck": "Blackwing"
+            {       "Name": "4thPlaceDuelist",
+                    "Deck": "Blackwing"
             },
-            {
-                "Name": "5thPlaceDuelist",
-                "Deck": "Blackwing"
+            
+            {       "Name": "5thPlaceDuelist",
+                    "Deck": "Blackwing"
             },
-            {
-                "Name": "6thPlaceDuelist",
-                "Deck": "Blackwing"
+            {       "Name": "6thPlaceDuelist",
+                    "Deck": "Blackwing"
             },
-            {
-                "Name": "7thPlaceDuelist",
-                "Deck": "Blackwing"
+            {       "Name": "7thPlaceDuelist",
+                    "Deck": "Blackwing"
             },
-            {
-                "Name": "8thPlaceDuelist",
-                "Deck": "Blackwing"
-            }
-        ]
+            {       "Name": "8thPlaceDuelist",
+                    "Deck": "Blackwing"
+            }]
     }
 ]
