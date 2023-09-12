@@ -1,84 +1,45 @@
 [
-    { 
-        "EventName":  "Super awesome edison tournament 7",
+    {
+        "EventName": "Super awesome edison tournament 7",
         "Background": "Blackwing - Bora the Spear",
-        "Date":       "2023/09/12",
-        "Players":    "82",
-        "Location":   "Online",
-        "HasEnded":   "true",
-        "Link":       "",
-        "First": [{   
-            "Name": "1stPlaceDuelist",
-            "Deck": "Blackwing"
-        }],
-        "Second": [{   
-            "Name": "1stPlaceDuelist",
-            "Deck": "Blackwing"
-        }],
-        "Third": [{   
-            "Name": "1stPlaceDuelist",
-            "Deck": "Blackwing"
-        }],
-        "Fourth": [{   
-            "Name": "1stPlaceDuelist",
-            "Deck": "Blackwing"
-        }],
-        "Fifth": [{   
-            "Name": "1stPlaceDuelist",
-            "Deck": "Blackwing"
-        }],
-        "Sixth": [{   
-            "Name": "1stPlaceDuelist",
-            "Deck": "Blackwing"
-        }],
-        "Seventh": [{   
-            "Name": "1stPlaceDuelist",
-            "Deck": "Blackwing"
-        }],
-        "Eighth": [{   
-            "Name": "1stPlaceDuelist",
-            "Deck": "Blackwing"
-        }]
-    },
-
-    { 
-        "EventName":  "Super awesome edison tournament OLD",
-        "Background": "Junk Synchron",
-        "Date":       "2022/11/31",
-        "Players":    "234",
-        "Location":   "Online",
-        "HasEnded":   "true",
-        "1st": [{   
-            "Name": "1stPlaceDuelist",
-            "Deck": "Blackwing"
-        }],
-        "2nd": [{   
-            "Name": "1stPlaceDuelist",
-            "Deck": "Blackwing"
-        }],
-        "3rd": [{   
-            "Name": "1stPlaceDuelist",
-            "Deck": "Blackwing"
-        }],
-        "4th": [{   
-            "Name": "1stPlaceDuelist",
-            "Deck": "Blackwing"
-        }],
-        "5th": [{   
-            "Name": "1stPlaceDuelist",
-            "Deck": "Blackwing"
-        }],
-        "6th": [{   
-            "Name": "1stPlaceDuelist",
-            "Deck": "Blackwing"
-        }],
-        "7th": [{   
-            "Name": "1stPlaceDuelist",
-            "Deck": "Blackwing"
-        }],
-        "8th": [{   
-            "Name": "1stPlaceDuelist",
-            "Deck": "Blackwing"
-        }]
+        "Date": "2023/09/12",
+        "Players": "82",
+        "Location": "Online",
+        "HasEnded": "true",
+        "Link": "",
+        "TopCut": [
+            {
+                "Name": "1stPlaceDuelist",
+                "Deck": "Blackwing"
+            },
+            {
+                "Name": "2ndPlaceDuelist",
+                "Deck": "X-Saber"
+            },
+            {
+                "Name": "3rdPlaceDuelist",
+                "Deck": "Junk"
+            },
+            {
+                "Name": "4thPlaceDuelist",
+                "Deck": "Blackwing"
+            },
+            {
+                "Name": "5thPlaceDuelist",
+                "Deck": "Blackwing"
+            },
+            {
+                "Name": "6thPlaceDuelist",
+                "Deck": "Blackwing"
+            },
+            {
+                "Name": "7thPlaceDuelist",
+                "Deck": "Blackwing"
+            },
+            {
+                "Name": "8thPlaceDuelist",
+                "Deck": "Blackwing"
+            }
+        ]
     }
 ]
