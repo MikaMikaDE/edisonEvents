@@ -2,7 +2,7 @@
     {
         "EventName": "Edison World Championshop Qualifier",
         "Date":      "5th August 2023",
-        "Logo":      "FORM",
+        "ID":        "EWCQ03",
         "EntryFee":  "Free",
         "Link":      "https://discord.gg/formatlibrary",
         "Location":  "Online",
@@ -39,7 +39,7 @@
     {
         "EventName": "R.B.E.T. (Really Big Edison Tournament)",
         "Date":      "19th August 2023",
-        "Logo":      "RBET",
+        "ID":        "RBET03",
         "EntryFee":  "Paid",
         "Link":      "https://www.youtube.com/@E3YuGiOh/featured",
         "Location":  "Moreno Valley, CA",
@@ -76,10 +76,10 @@
     {
         "EventName": "Deck Devastator",
         "Date":      "2nd September 2023",
-        "Logo":      "DDEV",
+        "ID":        "DDEV06",
         "EntryFee":  "Free",
         "Link":      "https://discord.gg/EbpQ86GXx3",
-        "Location":  "Moreno Valley, CA",
+        "Location":  "Online",
         "HasEnded":  false,
         "Players":   "",
 
@@ -114,7 +114,7 @@
     {
         "EventName": "Super secret RoD tournament (this really actually definately existed and is not just example)",
         "Date":      "4th September 2023",
-        "Logo":      "RoD",
+        "ID":        "RoD01",
         "EntryFee":  "Free",
         "Link":      "",
         "Location":  "Online",
