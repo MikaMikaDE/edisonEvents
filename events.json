@@ -1,78 +1,151 @@
 [
     {
-        "EventName": "Super awesome edison tournament 7",
-        "Date":      "12th September 2023",
-        "Logo":      "Format Library",
-        "Link":      "",
-
+        "EventName": "Edison World Championshop Qualifier",
+        "Date":      "5th August 2023",
+        "Logo":      "FORM",
+        "EntryFee":  "Free",
+        "Link":      "https://www.youtube.com/@E3YuGiOh/featured",
         "Location":  "Online",
-        "HasEnded":  "true",
-        "Players":   "82",
-
+        "HasEnded":  "false",
+        "Players":   "",
         "TopCut": [
             {       "Name": "1stPlaceDuelist",
-                    "Deck": "Blackwing"
+                    "Deck": "1stPlaceDeckName"
             },
             {       "Name": "2ndPlaceDuelist",
-                    "Deck": "X-Saber"
+                    "Deck": "2ndPlaceDeckName"
             },
             {       "Name": "3rdPlaceDuelist",
-                    "Deck": "Junk"
+                    "Deck": "3rdPlaceDeckName"
             },
             {       "Name": "4thPlaceDuelist",
-                    "Deck": "Blackwing"
+                    "Deck": "4thPlaceDeckName"
             },
 
             {       "Name": "5thPlaceDuelist",
-                    "Deck": "Blackwing"
+                    "Deck": "5thPlaceDeckName"
             },
             {       "Name": "6thPlaceDuelist",
-                    "Deck": "Blackwing"
+                    "Deck": "6thPlaceDeckName"
             },
             {       "Name": "7thPlaceDuelist",
-                    "Deck": "Blackwing"
+                    "Deck": "7thPlaceDeckName"
             },
             {       "Name": "8thPlaceDuelist",
-                    "Deck": "Blackwing"
+                    "Deck": "8thPlaceDeckName"
             }
         ]
     },
-
     {
-        "EventName": "ONLY rescue cat tournament (no other cards allow)",
-        "Date":      "4th September 2023",
-        "Logo":      "Deck Devastator",
-        "Link":      "",
+        "EventName": "R.B.E.T. (Really Big Edison Tournament)",
+        "Date":      "19th August 2023",
+        "Logo":      "RBET",
+        "EntryFee":  "Paid",
+        "Link":      "https://www.youtube.com/@E3YuGiOh/featured",
+        "Location":  "Moreno Valley, CA",
+        "HasEnded":  "false",
+        "Players":   "",
+        "TopCut": [
+            {       "Name": "1stPlaceDuelist",
+                    "Deck": "1stPlaceDeckName"
+            },
+            {       "Name": "2ndPlaceDuelist",
+                    "Deck": "2ndPlaceDeckName"
+            },
+            {       "Name": "3rdPlaceDuelist",
+                    "Deck": "3rdPlaceDeckName"
+            },
+            {       "Name": "4thPlaceDuelist",
+                    "Deck": "4thPlaceDeckName"
+            },
 
-        "Location":  "Online",
-        "HasEnded":  "true",
-        "Players":   "123",
+            {       "Name": "5thPlaceDuelist",
+                    "Deck": "5thPlaceDeckName"
+            },
+            {       "Name": "6thPlaceDuelist",
+                    "Deck": "6thPlaceDeckName"
+            },
+            {       "Name": "7thPlaceDuelist",
+                    "Deck": "7thPlaceDeckName"
+            },
+            {       "Name": "8thPlaceDuelist",
+                    "Deck": "8thPlaceDeckName"
+            }
+        ]
+    },
+    {
+        "EventName": "Deck Devastator",
+        "Date":      "2nd September 2023",
+        "Logo":      "DDEV",
+        "EntryFee":  "Free",
+        "Link":      "https://www.youtube.com/@E3YuGiOh/featured",
+        "Location":  "Moreno Valley, CA",
+        "HasEnded":  "false",
+        "Players":   "",
 
         "TopCut": [
             {       "Name": "1stPlaceDuelist",
-                    "Deck": "Blackwing"
+                    "Deck": "1stPlaceDeckName"
             },
             {       "Name": "2ndPlaceDuelist",
-                    "Deck": "X-Saber"
+                    "Deck": "2ndPlaceDeckName"
             },
             {       "Name": "3rdPlaceDuelist",
-                    "Deck": "Junk"
+                    "Deck": "3rdPlaceDeckName"
             },
             {       "Name": "4thPlaceDuelist",
-                    "Deck": "Blackwing"
+                    "Deck": "4thPlaceDeckName"
             },
-            
+
             {       "Name": "5thPlaceDuelist",
-                    "Deck": "Blackwing"
+                    "Deck": "5thPlaceDeckName"
             },
             {       "Name": "6thPlaceDuelist",
-                    "Deck": "Blackwing"
+                    "Deck": "6thPlaceDeckName"
             },
             {       "Name": "7thPlaceDuelist",
-                    "Deck": "Blackwing"
+                    "Deck": "7thPlaceDeckName"
             },
             {       "Name": "8thPlaceDuelist",
-                    "Deck": "Blackwing"
+                    "Deck": "8thPlaceDeckName"
+            }
+        ]
+    },
+    {
+        "EventName": "Super secret RoD tournament (this really actually definately existed and is not just example)",
+        "Date":      "4th September 2023",
+        "Logo":      "RoD",
+        "EntryFee":  "Free",
+        "Link":      "",
+        "Location":  "Online",
+        "HasEnded":  "true",
+        "Players":   "8",
+
+        "TopCut": [
+            {       "Name": "Randage",
+                    "Deck": "Black Salvo"
+            },
+            {       "Name": "Roghnach",
+                    "Deck": "Geartown Frogs"
+            },
+            {       "Name": "Fusion",
+                    "Deck": "Wall Deck"
+            },
+            {       "Name": "Hydropump",
+                    "Deck": "Blastoise Rain Dance"
+            },
+            
+            {       "Name": "Jaina",
+                    "Deck": "Fairy"
+            },
+            {       "Name": "Mika",
+                    "Deck": "Counter Trap X-Saber"
+            },
+            {       "Name": "FayeV",
+                    "Deck": "Library"
+            },
+            {       "Name": "Prostorm",
+                    "Deck": "HERO Beat"
             }]
     }
 ]
