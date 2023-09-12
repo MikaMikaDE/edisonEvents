@@ -1,10 +1,11 @@
 [
     { 
-        "EventName": "Super awesome edison tournament 7",
-        "Date":      "2023/09/12",
-        "Players":   "82",
-        "Location":  "Online",
-        "HasEnded":  "true",
+        "EventName":  "Super awesome edison tournament 7",
+        "Background": "https://www.deviantart.com/nhociory/art/Blackwing-Sirocco-the-Dawn-Artwork-916134559",
+        "Date":       "2023/09/12",
+        "Players":    "82",
+        "Location":   "Online",
+        "HasEnded":   "true",
         "1st": [{   
             "Name": "1stPlaceDuelist",
             "Deck": "Blackwing"
