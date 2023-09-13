@@ -1,77 +1,14 @@
-[
+ [
     {
-        "EventName": "R.B.E.T. 7",
-        "Date":      "30th June 2023",
-        "ID":        "RBET07",
-        "EntryFee":  "Unknown",
-        "Link":      "https://www.youtube.com/@E3YuGiOh/featured",
-        "Location":  "Unknown",
-        "HasEnded":  false,
-        "Players":   "",
-        "TopCut": [
-            {       "Name": "Ghostrider15",
-                    "Deck": "Dragon Turbo"
-            },
-            {       "Name": "Duck Tracey",
-                    "Deck": "Blackwing"
-            },
-            {       "Name": "ATrueHero",
-                    "Deck": "Hybrid"
-            },
-            {       "Name": "ChaiTea",
-                    "Deck": "Zombie Diva Hero"
-            },
-
-            {       "Name": "Barcode",
-                    "Deck": "Neo-Spacian"
-            },
-            {       "Name": "Diego",
-                    "Deck": "Junk Frog Monarch"
-            },
-            {       "Name": "Kapachi",
-                    "Deck": "Blackwing"
-            },
-            {       "Name": "Yondaime",
-                    "Deck": "Blackwing"
-            }
-        ]
+        "Name":  "EWCQ",
+        "Date":  "August 05",
+        "Entry": "Free",
+        "Location": "Online"
     },
     {
-        "EventName": "Deck Devastators 5",
-        "Date":      "2nd September 2023",
-        "ID":        "DDEV05",
-        "EntryFee":  "Free",
-        "Link":      "https://discord.gg/EbpQ86GXx3",
-        "Location":  "Online",
-        "HasEnded":  false,
-        "Players":   "",
-
-        "TopCut": [
-            {       "Name": "rykoko7",
-                    "Deck": "Blackwing"
-            },
-            {       "Name": "samoopusteno",
-                    "Deck": "Vayu Turbo"
-            },
-            {       "Name": "Ghostrider15",
-                    "Deck": "Dragon Turbo"
-            },
-            {       "Name": "Roger Smith",
-                    "Deck": "Blackwing"
-            },
-
-            {       "Name": "masharose",
-                    "Deck": "Vayu Turbo"
-            },
-            {       "Name": "Pana2525",
-                    "Deck": "Kozaky Dragon Turbo"
-            },
-            {       "Name": "Roghnach",
-                    "Deck": "Geartown Frog"
-            },
-            {       "Name": "dartx",
-                    "Deck": "Zombie WelleDAD"
-            }
-        ]
+        "Name":  "RBET",
+        "Date":  "August 19",
+        "Entry": "Paid",
+        "Location": "Moreno Valley, CA"
     }
-]
+ ]
