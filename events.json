@@ -1,12 +1,12 @@
  [
     {
-        "Name":  "EWCQ 1 (2023)",
+        "Name":  "EWCQ-1(2023)",
         "Date":  "August 05",
         "Entry": "Free",
         "Location": "Online"
     },
     {
-        "Name":  "RBET 1 (2023)",
+        "Name":  "RBET-1(2023)",
         "Date":  "August 19",
         "Entry": "Entrance Fee",
         "Location": "Moreno Valley, CA"
@@ -18,13 +18,13 @@
         "Location": "Smithfield, NC"
     },
     {
-        "Name":  "DDEV",
+        "Name":  "DDEV-7",
         "Date":  "September 2",
         "Entry": "Free",
         "Location": "Online"
     },
     {
-        "Name":  "Xanadu Games",
+        "Name":  "Xanadu_Games",
         "Date":  "September 16",
         "Entry": "Entrance Fee",
         "Location": "Laurel, MD"
@@ -36,37 +36,37 @@
         "Location": "Online"
     },
     {
-        "Name":  "RBET",
+        "Name":  "RBET-2(2023)",
         "Date":  "September 30",
         "Entry": "Free",
         "Location": "Online"
     },
     {
-        "Name":  "RBET",
+        "Name":  "RBET-3(2023)",
         "Date":  "October 7",
         "Entry": "Entrance Fee",
         "Location": "Orlando, FL"
     },
     {
-        "Name":  "E&T Collectibles",
+        "Name":  "E&TCollectibles",
         "Date":  "October 14",
         "Entry": "Entrance Fee",
         "Location": "Online"
     },
     {
-        "Name":  "Collector's Emporium",
+        "Name":  "CollectorsEmporium",
         "Date":  "November 18",
         "Entry": "Entrance Fee",
         "Location": "Levittown, NY"
     },
     {
-        "Name":  "World Champsionship",
+        "Name":  "EWC",
         "Date":  "November 25",
         "Entry": "Invitational",
         "Location": "Online"
     },
     {
-        "Name":  "Big Boy Gaming",
+        "Name":  "BigBoyGaming",
         "Date":  "December 9",
         "Entry": "Entrance Fee",
         "Location": "Smithfield, NC"
