@@ -6,9 +6,21 @@
         "Location": "Online"
     },
     {
+        "Name":  "EWCQ 2 same day holy shit",
+        "Date":  "August 05",
+        "Entry": "Free",
+        "Location": "Online"
+    },
+    {
         "Name":  "RBET",
         "Date":  "August 19",
         "Entry": "Paid",
         "Location": "Moreno Valley, CA"
+    },
+    {
+        "Name":  "EWCQ",
+        "Date":  "August 26",
+        "Entry": "Paid",
+        "Location": "Smithfield, NC"
     }
  ]
