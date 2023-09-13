@@ -1,26 +1,74 @@
  [
     {
-        "Name":  "EWCQ",
+        "Name":  "EWCQ 1 (2023)",
         "Date":  "August 05",
         "Entry": "Free",
         "Location": "Online"
     },
     {
-        "Name":  "EWCQ 2 same day holy shit",
-        "Date":  "August 05",
-        "Entry": "Free",
-        "Location": "Online"
-    },
-    {
-        "Name":  "RBET",
+        "Name":  "RBET 1 (2023)",
         "Date":  "August 19",
-        "Entry": "Paid",
+        "Entry": "Entrance Fee",
         "Location": "Moreno Valley, CA"
     },
     {
         "Name":  "EWCQ",
         "Date":  "August 26",
-        "Entry": "Paid",
+        "Entry": "Entrance Fee",
+        "Location": "Smithfield, NC"
+    },
+    {
+        "Name":  "DDEV",
+        "Date":  "September 2",
+        "Entry": "Free",
+        "Location": "Online"
+    },
+    {
+        "Name":  "Xanadu Games",
+        "Date":  "September 16",
+        "Entry": "Entrance Fee",
+        "Location": "Laurel, MD"
+    },
+    {
+        "Name":  "HRC",
+        "Date":  "September 23",
+        "Entry": "Free",
+        "Location": "Online"
+    },
+    {
+        "Name":  "RBET",
+        "Date":  "September 30",
+        "Entry": "Free",
+        "Location": "Online"
+    },
+    {
+        "Name":  "RBET",
+        "Date":  "October 7",
+        "Entry": "Entrance Fee",
+        "Location": "Orlando, FL"
+    },
+    {
+        "Name":  "E&T Collectibles",
+        "Date":  "October 14",
+        "Entry": "Entrance Fee",
+        "Location": "Online"
+    },
+    {
+        "Name":  "Collector's Emporium",
+        "Date":  "November 18",
+        "Entry": "Entrance Fee",
+        "Location": "Levittown, NY"
+    },
+    {
+        "Name":  "World Champsionship",
+        "Date":  "November 25",
+        "Entry": "Invitational",
+        "Location": "Online"
+    },
+    {
+        "Name":  "Big Boy Gaming",
+        "Date":  "December 9",
+        "Entry": "Entrance Fee",
         "Location": "Smithfield, NC"
     }
  ]
