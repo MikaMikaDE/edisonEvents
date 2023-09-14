@@ -1,73 +1,85 @@
  [
     {
-        "Name":  "EWCQ-1(2023)",
+        "Name":  "EWCQ-1",
+        "Icon":  "FL",
         "Date":  "Aug 05",
         "Entry": "Free",
         "Location": "Online",
         "Link": "https://www.google.com/search?client=firefox-b-d&q=cats"
     },
     {
-        "Name":  "RBET-1(2023)",
+        "Name":  "RBET-1",
+        "Icon":  "RBET",
         "Date":  "Aug 19",
         "Entry": "Entrance Fee",
         "Location": "Moreno Valley, CA"
     },
     {
-        "Name":  "EWCQ",
+        "Name":  "EWCQ-2",
+        "Icon":  "FL",
         "Date":  "Aug 26",
         "Entry": "Entrance Fee",
         "Location": "Smithfield, NC"
     },
     {
         "Name":  "DDEV-7",
+        "Icon":  "DDEV",
         "Date":  "Sep 2",
         "Entry": "Free",
         "Location": "Online"
     },
     {
         "Name":  "XanaduGames",
+        "Icon":  "Other",
         "Date":  "Sep 16",
         "Entry": "Entrance Fee",
         "Location": "Laurel, MD"
     },
     {
         "Name":  "HRC",
+        "Icon":  "Other",
         "Date":  "Sep 23",
         "Entry": "Free",
         "Location": "Online"
     },
     {
-        "Name":  "RBET-2(2023)",
+        "Name":  "RBET-2",
+        "Icon":  "EBET",
         "Date":  "Sep 30",
         "Entry": "Free",
         "Location": "Online"
     },
     {
-        "Name":  "RBET-3(2023)",
+        "Name":  "RBET-3",
+        "Icon":  "RBET",
         "Date":  "Oct 7",
         "Entry": "Entrance Fee",
         "Location": "Orlando, FL"
     },
     {
         "Name":  "ETCollectibles",
+        "Icon":  "Other",
         "Date":  "Oct 14",
         "Entry": "Entrance Fee",
         "Location": "Online"
     },
     {
         "Name":  "C.Emporium",
+        "Icon":  "Other",
         "Date":  "Nov 18",
         "Entry": "Entrance Fee",
         "Location": "Levittown, NY"
     },
     {
-        "Name":  "EWC",
+        "Name":  "Edison World Championship",
+        "Icon":  "FL",
         "Date":  "Nov 25",
         "Entry": "Invitational",
         "Location": "Online"
     },
     {
         "Name":  "BigBoyGaming",
+        "Icon":  "Other",
         "Date":  "Dec 9",
         "Entry": "Entrance Fee",
         "Location": "Smithfield, NC"
