@@ -12,76 +12,87 @@
         "Icon":  "RBET",
         "Date":  "August 19",
         "Entry": "Entrance Fee",
-        "Location": "Moreno Valley, CA"
+        "Location": "Moreno Valley, CA",
+        "Link": "https://discord.gg/ACXMxpNXHD"
     },
     {
         "Name":  "EWCQ-2",
         "Icon":  "FL",
         "Date":  "August 26",
         "Entry": "Entrance Fee",
-        "Location": "Smithfield, NC"
+        "Location": "Smithfield, NC",
+        "Link": "https://discord.gg/formatlibrary"
     },
     {
         "Name":  "DDEV-7",
         "Icon":  "DDEV",
         "Date":  "September 2",
         "Entry": "Free",
-        "Location": "Online"
+        "Location": "Online",
+        "Link": "https://discord.gg/EbpQ86GXx3"
     },
     {
         "Name":  "XanaduGames",
         "Icon":  "Other",
         "Date":  "September 16",
         "Entry": "Entrance Fee",
-        "Location": "Laurel, MD"
+        "Location": "Laurel, MD",
+        "Link": "https://www.facebook.com/XanaduGames/"
     },
     {
         "Name":  "HRC",
         "Icon":  "Other",
         "Date":  "September 23",
         "Entry": "Free",
-        "Location": "Online"
+        "Location": "Online",
+        "Link": "https://docs.google.com/document/d/e/2PACX-1vQYvqc_YAsON0MFO_j8KeVj9Z87rubYDqtxildJ_xA8plPDFc74DQyNRMyUcgNOMpjqwFi26IL1puuO/pub"
     },
     {
         "Name":  "RBET-2",
         "Icon":  "EBET",
         "Date":  "September 30",
         "Entry": "Free",
-        "Location": "Online"
+        "Location": "Online",
+        "Link": "https://discord.gg/ACXMxpNXHD"
     },
     {
         "Name":  "RBET-3",
         "Icon":  "RBET",
         "Date":  "October 7",
         "Entry": "Entrance Fee",
-        "Location": "Orlando, FL"
+        "Location": "Orlando, FL",
+        "Link": "https://discord.gg/ACXMxpNXHD"
     },
     {
-        "Name":  "ETCollectibles",
+        "Name":  "E&T Collectibles",
         "Icon":  "Other",
         "Date":  "October 14",
         "Entry": "Entrance Fee",
-        "Location": "Online"
+        "Location": "Online",
+        "Link": "https://www.facebook.com/ETCollectibles1/"
     },
     {
-        "Name":  "C.Emporium",
+        "Name":  "Collector's Emporium",
         "Icon":  "Other",
         "Date":  "November 18",
         "Entry": "Entrance Fee",
-        "Location": "Levittown, NY"
+        "Location": "Levittown, NY",
+        "Link": "https://collectorsemporium.com/pages/event-calendar"
     },
     {
         "Name":  "Edison World Championship",
         "Icon":  "FL",
         "Date":  "November 25",
         "Entry": "Invitational",
-        "Location": "Online"
+        "Location": "Online",
+        "Link": "https://discord.gg/formatlibrary"
     },
     {
         "Name":  "BigBoyGaming",
         "Icon":  "Other",
         "Date":  "December 9",
         "Entry": "Entrance Fee",
-        "Location": "Smithfield, NC"
+        "Location": "Smithfield, NC",
+        "Link": "https://www.facebook.com/BigBoyGamingLLC/"
     }
  ]
