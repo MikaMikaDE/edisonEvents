@@ -11,7 +11,7 @@
         "Name":  "RBET-1",
         "Icon":  "RBET",
         "Date":  "August 19",
-        "Entry": "Entrance Fee",
+        "Entry": "Paid Entry",
         "Location": "Moreno Valley, CA",
         "Link": "https://discord.gg/ACXMxpNXHD"
     },
@@ -19,7 +19,7 @@
         "Name":  "EWCQ-2",
         "Icon":  "FL",
         "Date":  "August 26",
-        "Entry": "Entrance Fee",
+        "Entry": "Paid Entry",
         "Location": "Smithfield, NC",
         "Link": "https://discord.gg/formatlibrary"
     },
@@ -35,9 +35,17 @@
         "Name":  "XanaduGames",
         "Icon":  "Other",
         "Date":  "September 16",
-        "Entry": "Entrance Fee",
+        "Entry": "Paid Entry",
         "Location": "Laurel, MD",
         "Link": "https://www.facebook.com/XanaduGames/"
+    },
+    {
+        "Name":  "EWCQ-3",
+        "Icon":  "FL",
+        "Date":  "September 18",
+        "Entry": "Free",
+        "Location": "Online",
+        "Link": "https://discord.gg/formatlibrary"
     },
     {
         "Name":  "HRC",
@@ -48,10 +56,26 @@
         "Link": "https://docs.google.com/document/d/e/2PACX-1vQYvqc_YAsON0MFO_j8KeVj9Z87rubYDqtxildJ_xA8plPDFc74DQyNRMyUcgNOMpjqwFi26IL1puuO/pub"
     },
     {
+        "Name":  "EWCQ - Rome",
+        "Icon":  "FL",
+        "Date":  "September 24",
+        "Entry": "Free",
+        "Location": "Online",
+        "Link": "https://shuffledeckgaming.com/"
+    },
+    {
+        "Name":  "EWCQ - Montreal",
+        "Icon":  "FL",
+        "Date":  "September 24",
+        "Entry": "Free",
+        "Location": "Card Brawlers Montreal",
+        "Link": "https://cardbrawlers.com/"
+    },
+    {
         "Name":  "Ultimate Time Wizard",
         "Icon":  "KONAMI",
         "Date":  "September 30",
-        "Entry": "€22.45",
+        "Entry": "€22.45 Entry",
         "Location": "YCS Dortmund 2023",
         "Link": "https://www.yugioh-card.com/eu/ultimate-time-wizard-tournament/"
     },
@@ -67,7 +91,7 @@
         "Name":  "RBET-3",
         "Icon":  "RBET",
         "Date":  "October 7",
-        "Entry": "Entrance Fee",
+        "Entry": "Paid Entry",
         "Location": "Orlando, FL",
         "Link": "https://discord.gg/ACXMxpNXHD"
     },
@@ -75,15 +99,23 @@
         "Name":  "E&T Collectibles",
         "Icon":  "Other",
         "Date":  "October 14",
-        "Entry": "Entrance Fee",
+        "Entry": "Paid Entry",
         "Location": "Online",
         "Link": "https://www.facebook.com/ETCollectibles1/"
+    },
+    {
+        "Name":  "EWCQ-4",
+        "Icon":  "FL",
+        "Date":  "October 28",
+        "Entry": "Free",
+        "Location": "Online",
+        "Link": "https://discord.gg/formatlibrary"
     },
     {
         "Name":  "Collector's Emporium",
         "Icon":  "Other",
         "Date":  "November 18",
-        "Entry": "Entrance Fee",
+        "Entry": "Paid Entry",
         "Location": "Levittown, NY",
         "Link": "https://collectorsemporium.com/pages/event-calendar"
     },
@@ -99,7 +131,7 @@
         "Name":  "BigBoyGaming",
         "Icon":  "Other",
         "Date":  "December 9",
-        "Entry": "Entrance Fee",
+        "Entry": "Paid Entry",
         "Location": "Smithfield, NC",
         "Link": "https://www.facebook.com/BigBoyGamingLLC/"
     }
