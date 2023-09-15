@@ -24,14 +24,6 @@
         "Link": "https://discord.gg/formatlibrary"
     },
     {
-        "Name":  "Ultimate Time Wizard",
-        "Icon":  "KONAMI",
-        "Date":  "September 30",
-        "Entry": "€22.45",
-        "Location": "YCS Dortmund 2023",
-        "Link": "https://www.yugioh-card.com/eu/ultimate-time-wizard-tournament/"
-    },
-    {
         "Name":  "DDEV-7",
         "Icon":  "DDEV",
         "Date":  "September 2",
@@ -54,6 +46,14 @@
         "Entry": "Free",
         "Location": "Online",
         "Link": "https://docs.google.com/document/d/e/2PACX-1vQYvqc_YAsON0MFO_j8KeVj9Z87rubYDqtxildJ_xA8plPDFc74DQyNRMyUcgNOMpjqwFi26IL1puuO/pub"
+    },
+    {
+        "Name":  "Ultimate Time Wizard",
+        "Icon":  "KONAMI",
+        "Date":  "September 30",
+        "Entry": "€22.45",
+        "Location": "YCS Dortmund 2023",
+        "Link": "https://www.yugioh-card.com/eu/ultimate-time-wizard-tournament/"
     },
     {
         "Name":  "RBET-2",
