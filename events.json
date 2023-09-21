@@ -1,37 +1,5 @@
  [
     {
-        "Name":  "EWCQ-1",
-        "Icon":  "FL",
-        "Date":  "August 5",
-        "Entry": "Free",
-        "Location": "Online",
-        "Link": "https://discord.gg/formatlibrary"
-    },
-    {
-        "Name":  "RBET-1",
-        "Icon":  "RBET",
-        "Date":  "August 19",
-        "Entry": "Paid Entry",
-        "Location": "Moreno Valley, CA",
-        "Link": "https://discord.gg/ACXMxpNXHD"
-    },
-    {
-        "Name":  "EWCQ-2",
-        "Icon":  "FL",
-        "Date":  "August 26",
-        "Entry": "Paid Entry",
-        "Location": "Smithfield, NC",
-        "Link": "https://discord.gg/formatlibrary"
-    },
-    {
-        "Name":  "DDEV-7",
-        "Icon":  "DDEV",
-        "Date":  "September 2",
-        "Entry": "Free",
-        "Location": "Online",
-        "Link": "https://discord.gg/EbpQ86GXx3"
-    },
-    {
         "Name":  "XanaduGames",
         "Icon":  "Other",
         "Date":  "September 16",
