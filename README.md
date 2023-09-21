@@ -44,37 +44,3 @@ Or a link to the shop / facebook page - anything that lets the user quickly get 
 All objects (things inside {curly braces}) **must** be separated by a comma. 
 The last object must not have a comma after it.
 
-## Example
-
-{
-
-"Name":     "EWCQ 4",
-
-"Icon":     "FL",
-
-"Date":     "August 5",
-
-"Entry":    "Free",
-
-"Location": "Online",
-
-"Link":     "https://discord.gg/formatlibrary"
-
-},
-
-{
-
-"Name":     "Super Mika Tournament",
-
-"Icon":     "Other",
-
-"Date":     "August 10",
-
-"Entry":    "Paid Entry",
-
-"Location": "Mika's Basement",
-
-"Link":     "www.mikasbasement.com"
-
-}
-
