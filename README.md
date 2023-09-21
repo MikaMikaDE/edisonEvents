@@ -40,25 +40,25 @@ Can be any of
 Either a discord link (make __sure__ that it is not a link that expires. When making the link you must click "Edit invite link", else it will expire.
 Or a link to the shop / facebook page - anything that lets the user quickly get to where they need to be to sign up.
 
-###A note on Json files
+### A note on Json files
 All objects (things inside {curly braces}) **must** be separated by a comma. 
 The last object must not have a comma after it.
 
-##Example
-> {
-> "Name":     "EWCQ 4",
-> "Icon":     "FL",
-> "Date":     "August 5",
-> "Entry":    "Free",
-> "Location": "Online",
-> "Link":     "https://discord.gg/formatlibrary"
-> },
-> {
-> "Name":     "Super Mika Tournament",
-> "Icon":     "Other",
-> "Date":     "August 10",
-> "Entry":    "Paid Entry",
-> "Location": "Mika's Basement",
-> "Link":     "www.mikasbasement.com"
-> }
+## Example
+{
+"Name":     "EWCQ 4",
+"Icon":     "FL",
+"Date":     "August 5",
+"Entry":    "Free",
+"Location": "Online",
+"Link":     "https://discord.gg/formatlibrary"
+},
+{
+"Name":     "Super Mika Tournament",
+"Icon":     "Other",
+"Date":     "August 10",
+"Entry":    "Paid Entry",
+"Location": "Mika's Basement",
+"Link":     "www.mikasbasement.com"
+}
 
