@@ -1,8 +1,10 @@
 # edisonEvents
-List of future edisonformat events
+List of future edisonformat events.
 
 
 ## Json keys
+
+Note that objects must be listed in chronological order.
 
 ### "Name"
 The content isn't especially important, but be consistent with other names.
