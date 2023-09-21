@@ -5,6 +5,7 @@ List of future edisonformat events.
 ## Json keys
 
 Note that objects must be listed in chronological order.
+Don't worry about deleting old events. The site don't display them at all (as long as everything is listed chronologically).
 
 ### "Name"
 The content isn't especially important, but be consistent with other names.
