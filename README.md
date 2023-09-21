@@ -11,7 +11,7 @@ Don't worry about deleting old events. The site don't display them at all (as lo
 The content isn't especially important, but be consistent with other names.
 If it's a shop, just the shop name will suffice.
 Note that one line is about 12 characters long on both mobile and desktop. 
-Try for 1 line of text is possible. Sometimes a 2nd line is unavoidable.
+Try for 1 line of text if possible. Sometimes a 2nd line is unavoidable.
 
 ### Icon
 - "FL"    - Format Library background image
