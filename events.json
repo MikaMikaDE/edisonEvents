@@ -16,7 +16,7 @@
         "Link": "https://discord.gg/formatlibrary"
     },
     {
-        "Name":  "HRC",
+        "Name":  "HRC 2",
         "Icon":  "Other",
         "Date":  "September 23",
         "Entry": "Free",
@@ -40,10 +40,18 @@
         "Link": "https://cardbrawlers.com/"
     },
     {
+        "Name":  "Ultimate Time Wizard (8 player pods)",
+        "Icon":  "KONAMI",
+        "Date":  "September 29",
+        "Entry": "10€ Entry",
+        "Location": "SPIEL23 Essen",
+        "Link": "https://twitter.com/YuGiOhCardEU/status/1705899927409406191"
+    },
+    {
         "Name":  "Ultimate Time Wizard",
         "Icon":  "KONAMI",
         "Date":  "September 30",
-        "Entry": "€22.45 Entry",
+        "Entry": "22.45€ Entry",
         "Location": "YCS Dortmund 2023",
         "Link": "https://www.yugioh-card.com/eu/ultimate-time-wizard-tournament/"
     },
