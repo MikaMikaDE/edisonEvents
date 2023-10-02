@@ -1,29 +1,5 @@
  [
     {
-        "Name":  "Time Wizard 2010 (SPIEL23)",
-        "Icon":  "KONAMI",
-        "Date":  "September 29",
-        "Entry": "10€ Entry",
-        "Location": "SPIEL23 Essen",
-        "Link": "https://twitter.com/YuGiOhCardEU/status/1705899927409406191"
-    },
-    {
-        "Name":  "Ultimate Time Wizard (YCS Dortmund)",
-        "Icon":  "KONAMI",
-        "Date":  "September 30",
-        "Entry": "22.45€ Entry",
-        "Location": "YCS Dortmund 2023",
-        "Link": "https://www.yugioh-card.com/eu/ultimate-time-wizard-tournament/"
-    },
-    {
-        "Name":  "RBET - 2",
-        "Icon":  "RBET",
-        "Date":  "September 30",
-        "Entry": "Free",
-        "Location": "Online",
-        "Link": "https://discord.gg/ACXMxpNXHD"
-    },
-    {
         "Name":  "RBET - 3 (Florida)",
         "Icon":  "RBET",
         "Date":  "October 7",
@@ -38,6 +14,14 @@
         "Entry": "Paid Entry",
         "Location": "Online",
         "Link": "https://www.facebook.com/ETCollectibles1/"
+    },
+    {
+        "Name":  "UK Edison Open",
+        "Icon":  "Other",
+        "Date":  "October 21",
+        "Entry": "£20 Entry",
+        "Location": "Cheltenham UK",
+        "Link": "https://www.facebook.com/events/s/yu-gi-oh-uk-edison-open/687708772712849/"
     },
     {
         "Name":  "EWCQ-  4",
