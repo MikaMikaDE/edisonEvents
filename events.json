@@ -15,6 +15,14 @@
         "Location": "Online",
         "Link": "https://www.facebook.com/ETCollectibles1/"
     },
+      {
+        "Name":  "UTW (YCS Indianapolis)",
+        "Icon":  "KONAMI",
+        "Date":  "October 20",
+        "Entry": "$25.00",
+        "Location": "Indianapolis, IN",
+        "Link": "https://events.thesidedeck.com/Events/Details.aspx?id=3492"
+    },
     {
         "Name":  "UK Edison Open",
         "Icon":  "Other",
