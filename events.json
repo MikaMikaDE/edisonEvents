@@ -47,13 +47,29 @@
         "Location": "Laurel, MD",
         "Link": "https://discord.gg/7DEPQ9UQ2J"
     },    
-      {
+    {
+        "Name":  "Collectible Exchange",
+        "Icon":  "Other",
+        "Date":  "October 28",
+        "Entry": "$30",
+        "Location": "Fontana, CA",
+        "Link": "https://www.facebook.com/p/Collectible-Exchange-100077047946571/"
+    },    
+    {
         "Name":  "UTW (YCS Richmond)",
         "Icon":  "KONAMI",
         "Date":  "November 4",
         "Entry": "$25",
         "Location": "Richmond VA",
         "Link": "https://events.thesidedeck.com/Events/Details.aspx?id=3493"
+    },
+    {
+        "Name":  "BCS Championship",
+        "Icon":  "Other",
+        "Date":  "November 4",
+        "Entry": "Invitational",
+        "Location": "Online",
+        "Link": "https://discord.gg/vNpzhaShyX"
     },
     {
         "Name":  "RBET Rulers",
