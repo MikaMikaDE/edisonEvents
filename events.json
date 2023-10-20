@@ -1,20 +1,4 @@
  [
-    {
-        "Name":  "RBET - 3 (Florida)",
-        "Icon":  "RBET",
-        "Date":  "October 7",
-        "Entry": "Paid Entry",
-        "Location": "Orlando, FL",
-        "Link": "https://discord.gg/ACXMxpNXHD"
-    },
-    {
-        "Name":  "E&T Collectibles",
-        "Icon":  "Other",
-        "Date":  "October 14",
-        "Entry": "Paid Entry",
-        "Location": "Online",
-        "Link": "https://www.facebook.com/ETCollectibles1/"
-    },
       {
         "Name":  "UTW (YCS Indianapolis)",
         "Icon":  "KONAMI",
@@ -34,7 +18,7 @@
     {
         "Name":  "EWCQ-  4",
         "Icon":  "FL",
-        "Date":  "October 28",
+        "Date":  "October 29",
         "Entry": "Free",
         "Location": "Online",
         "Link": "https://discord.gg/formatlibrary"
@@ -90,7 +74,7 @@
     {
         "Name":  "Edison World Championship",
         "Icon":  "FL",
-        "Date":  "November 25",
+        "Date":  "December 2",
         "Entry": "Invitational",
         "Location": "Online",
         "Link": "https://discord.gg/formatlibrary"
