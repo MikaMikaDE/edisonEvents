@@ -64,14 +64,6 @@
         "Link": "https://discord.gg/ACXMxpNXHD"
     },
     {
-        "Name":  "Collector's Emporium",
-        "Icon":  "Other",
-        "Date":  "November 18",
-        "Entry": "Paid Entry",
-        "Location": "Levittown, NY",
-        "Link": "https://collectorsemporium.com/pages/event-calendar"
-    },
-    {
         "Name":  "Edison World Championship",
         "Icon":  "FL",
         "Date":  "December 2",
@@ -86,5 +78,21 @@
         "Entry": "Paid Entry",
         "Location": "Smithfield, NC",
         "Link": "https://www.facebook.com/BigBoyGamingLLC/"
+    },
+    {
+        "Name":  "E&T Collectibles",
+        "Icon":  "Other",
+        "Date":  "December 16",
+        "Entry": "Paid Entry",
+        "Location": "Online",
+        "Link": "https://collectorsemporium.com/pages/event-calendar"
+    },
+    {
+        "Name":  "Collector's Emporium",
+        "Icon":  "Other",
+        "Date":  "December 16",
+        "Entry": "Paid Entry",
+        "Location": "Levittown, NY",
+        "Link": "https://collectorsemporium.com/pages/event-calendar"
     }
  ]
