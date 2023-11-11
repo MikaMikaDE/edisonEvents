@@ -1,65 +1,33 @@
  [
-      {
-        "Name":  "UTW (YCS Indianapolis)",
-        "Icon":  "KONAMI",
-        "Date":  "October 20",
-        "Entry": "$25",
-        "Location": "Indianapolis, IN",
-        "Link": "https://events.thesidedeck.com/Events/Details.aspx?id=3492"
-    },
-    {
-        "Name":  "UK Edison Open",
-        "Icon":  "Other",
-        "Date":  "October 21",
-        "Entry": "£20 Entry",
-        "Location": "Cheltenham UK",
-        "Link": "https://www.facebook.com/events/s/yu-gi-oh-uk-edison-open/687708772712849/"
-    },
-    {
-        "Name":  "EWCQ-  4",
-        "Icon":  "FL",
-        "Date":  "October 29",
-        "Entry": "Free",
-        "Location": "Online",
-        "Link": "https://discord.gg/formatlibrary"
-    },    
-      {
-        "Name":  "Spooky Xanadu Tournament",
-        "Icon":  "Other",
-        "Date":  "October 28",
-        "Entry": "$25",
-        "Location": "Laurel, MD",
-        "Link": "https://discord.gg/7DEPQ9UQ2J"
-    },    
-    {
-        "Name":  "Collectible Exchange",
-        "Icon":  "Other",
-        "Date":  "October 28",
-        "Entry": "$30",
-        "Location": "Fontana, CA",
-        "Link": "https://www.facebook.com/p/Collectible-Exchange-100077047946571/"
-    },    
-    {
-        "Name":  "UTW (YCS Richmond)",
-        "Icon":  "KONAMI",
-        "Date":  "November 4",
-        "Entry": "$25",
-        "Location": "Richmond VA",
-        "Link": "https://events.thesidedeck.com/Events/Details.aspx?id=3493"
-    },
-    {
-        "Name":  "BCS Championship",
-        "Icon":  "Other",
-        "Date":  "November 4",
-        "Entry": "Invitational",
-        "Location": "Online",
-        "Link": "https://discord.gg/vNpzhaShyX"
-    },
-    {
+  {
         "Name":  "RBET Rulers",
         "Icon":  "RBET",
         "Date":  "November 18",
         "Entry": "Invitational",
+        "Location": "Online",
+        "Link": "https://discord.gg/ACXMxpNXHD"
+    },
+    {
+        "Name":  "World Championship LC Qualifier 1",
+        "Icon":  "FL",
+        "Date":  "November 24",
+        "Entry": "$20",
+        "Location": "Online",
+        "Link": "https://discord.gg/formatlibrary"
+    },
+      {
+        "Name":  "World Championship LC Qualifier 2",
+        "Icon":  "FL",
+        "Date":  "November 25",
+        "Entry": "Invitational",
+        "Location": "Online",
+        "Link": "https://discord.gg/formatlibrary"
+    },
+      {
+        "Name":  "World Championship LC Qualifier 3",
+        "Icon":  "FL",
+        "Date":  "November 26",
+        "Entry": "$20",
         "Location": "Online",
         "Link": "https://discord.gg/ACXMxpNXHD"
     },
