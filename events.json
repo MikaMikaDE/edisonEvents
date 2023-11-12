@@ -9,7 +9,7 @@
     },
   {
         "Name":  "RBET Rulers",
-        "Icon":  "RBET",
+        "Icon":  "RBET_RULERS",
         "Date":  "November 18",
         "Entry": "Invitational",
         "Location": "Online",
@@ -41,7 +41,7 @@
     },
     {
         "Name":  "Edison World Championship",
-        "Icon":  "FL",
+        "Icon":  "FL_WORLDS_2023",
         "Date":  "December 2",
         "Entry": "Invitational",
         "Location": "Online",
