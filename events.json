@@ -17,7 +17,7 @@
     },
     {
         "Name":  "RBET Rulers",
-        "Icon":  "RBET_RULERS",
+        "Icon":  "Special_RBET_RULERS",
         "Date":  "November 18",
         "Entry": "Invitational",
         "Location": "Online",
@@ -81,19 +81,19 @@
     },
     {
         "Name":  "Edison World Championship",
-        "Icon":  "FL_WORLDS_2023",
+        "Icon":  "Special_FL_WORLDS_2023",
         "Date":  "December 2",
         "Entry": "Invitational",
         "Location": "Online",
         "Link": "https://discord.gg/formatlibrary"
     },
     {
-        "Name":  "BigBoyGaming",
-        "Icon":  "Other",
+        "Name":  "BigBoyGaming 5K",
+        "Icon":  "Special_BBG_5K",
         "Date":  "December 9",
         "Entry": "Paid Entry",
         "Location": "Smithfield, NC",
-        "Link": "https://www.facebook.com/BigBoyGamingLLC/"
+        "Link": "https://admin77623.wixsite.com/bbgevents5k"
     },
     {
         "Name":  "E&T Collectibles",
