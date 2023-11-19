@@ -98,7 +98,7 @@
     {
         "Name":  "E&T Collectibles",
         "Icon":  "Other",
-        "Date":  "December 16",
+        "Date":  "December 9",
         "Entry": "Paid Entry",
         "Location": "Online",
         "Link": "https://collectorsemporium.com/pages/event-calendar"
@@ -109,6 +109,14 @@
         "Date":  "December 16",
         "Entry": "Paid Entry",
         "Location": "Levittown, NY",
+        "Link": "https://collectorsemporium.com/pages/event-calendar"
+    },
+    {
+        "Name":  "E&T Collectibles",
+        "Icon":  "Other",
+        "Date":  "January 13",
+        "Entry": "Paid Entry",
+        "Location": "Online",
         "Link": "https://collectorsemporium.com/pages/event-calendar"
     }
  ]
