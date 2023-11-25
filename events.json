@@ -1,4 +1,52 @@
  [
+    {
+        "Name":  "Stardust Locals",
+        "Icon":  "STAR",
+        "Date":  "November 13",
+        "Entry": "Free",
+        "Location": "Online",
+        "Link": "https://discord.gg/ashfn8V4NF"
+    },
+    {
+        "Name":  "Dark Tournament [Winner takes ALL]",
+        "Icon":  "DARK",
+        "Date":  "November 17",
+        "Entry": "$10",
+        "Location": "Online",
+        "Link": "https://discord.gg/pgSKhJwXPH"
+    },
+    {
+        "Name":  "RBET Rulers",
+        "Icon":  "Special_RBET_RULERS",
+        "Date":  "November 18",
+        "Entry": "Invitational",
+        "Location": "Online",
+        "Link": "https://discord.gg/ACXMxpNXHD"
+    },
+    {
+        "Name":  "Dark Tournament [Winner takes ALL]",
+        "Icon":  "DARK",
+        "Date":  "November 19",
+        "Entry": "$10",
+        "Location": "Online",
+        "Link": "https://discord.gg/pgSKhJwXPH"
+    },
+    {
+        "Name":  "Stardust Locals",
+        "Icon":  "STAR",
+        "Date":  "November 20",
+        "Entry": "Free",
+        "Location": "Online",
+        "Link": "https://discord.gg/ashfn8V4NF"
+    },
+    {
+        "Name":  "Worlds Last Chance Qualifier 1",
+        "Icon":  "FL",
+        "Date":  "November 24",
+        "Entry": "$20",
+        "Location": "Online",
+        "Link": "https://discord.gg/formatlibrary"
+    },
       {
         "Name":  "Worlds Last Chance Qualifier 2",
         "Icon":  "FL",
@@ -39,22 +87,6 @@
         "Location": "Online",
         "Link": "https://discord.gg/formatlibrary"
     },
-      {
-        "Name":  "Dark Tournament [Winner takes ALL]",
-        "Icon":  "DARK",
-        "Date":  "December 3",
-        "Entry": "$10",
-        "Location": "Online",
-        "Link": "https://discord.gg/pgSKhJwXPH"
-    },
-      {
-        "Name":  "Stardust Locals",
-        "Icon":  "STAR",
-        "Date":  "December 4",
-        "Entry": "Free",
-        "Location": "Online",
-        "Link": "https://discord.gg/ashfn8V4NF"
-    },
     {
         "Name":  "BigBoyGaming 5K",
         "Icon":  "Special_BBG_5K",
@@ -64,28 +96,12 @@
         "Link": "https://admin77623.wixsite.com/bbgevents5k"
     },
     {
-        "Name":  "Dark Tournament [Winner takes ALL]",
-        "Icon":  "DARK",
-        "Date":  "December 10",
-        "Entry": "$10",
-        "Location": "Online",
-        "Link": "https://discord.gg/pgSKhJwXPH"
-    },
-    {
         "Name":  "E&T Collectibles",
         "Icon":  "Other",
         "Date":  "December 9",
         "Entry": "Paid Entry",
         "Location": "Online",
         "Link": "https://collectorsemporium.com/pages/event-calendar"
-    },
-      {
-        "Name":  "Stardust Locals",
-        "Icon":  "STAR",
-        "Date":  "November 11",
-        "Entry": "Free",
-        "Location": "Online",
-        "Link": "https://discord.gg/ashfn8V4NF"
     },
     {
         "Name":  "Collector's Emporium",
@@ -94,14 +110,6 @@
         "Entry": "Paid Entry",
         "Location": "Levittown, NY",
         "Link": "https://collectorsemporium.com/pages/event-calendar"
-    },
-     {
-        "Name":  "Dark Tournament [Winner takes ALL]",
-        "Icon":  "DARK",
-        "Date":  "December 17",
-        "Entry": "$10",
-        "Location": "Online",
-        "Link": "https://discord.gg/pgSKhJwXPH"
     },
     {
         "Name":  "E&T Collectibles",
