@@ -1,53 +1,5 @@
  [
     {
-        "Name":  "Worlds Last Chance Qualifier 2",
-        "Icon":  "FL",
-        "Date":  "November 25",
-        "Entry": "$20",
-        "Location": "Online",
-        "Link": "https://discord.gg/formatlibrary"
-    },
-    {
-        "Name":  "Worlds Last Chance Qualifier 3",
-        "Icon":  "FL",
-        "Date":  "November 26",
-        "Entry": "$20",
-        "Location": "Online",
-        "Link": "https://discord.gg/ACXMxpNXHD"
-    },
-    {
-        "Name":  "Dark Tournament [Winner takes ALL]",
-        "Icon":  "DARK",
-        "Date":  "November 26",
-        "Entry": "$10",
-        "Location": "Online",
-        "Link": "https://discord.gg/pgSKhJwXPH"
-    },
-    {
-        "Name":  "Stardust Locals",
-        "Icon":  "STAR",
-        "Date":  "November 27",
-        "Entry": "Free",
-        "Location": "Online",
-        "Link": "https://discord.gg/ashfn8V4NF"
-    },
-    {
-        "Name":  "Edison World Championship",
-        "Icon":  "Special_FL_WORLDS_2023",
-        "Date":  "December 2",
-        "Entry": "Invitational",
-        "Location": "Online",
-        "Link": "https://discord.gg/formatlibrary"
-    },
-    {
-        "Name":  "Dark Tournament [Winner takes ALL]",
-        "Icon":  "DARK",
-        "Date":  "December 3",
-        "Entry": "$10",
-        "Location": "Online",
-        "Link": "https://discord.gg/pgSKhJwXPH"
-    },
-    {
         "Name":  "Stardust Locals",
         "Icon":  "STAR",
         "Date":  "November 4",
