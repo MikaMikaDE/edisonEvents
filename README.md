@@ -26,7 +26,7 @@ For very large/special events (like the ultimate time wizard) you can contact me
 Don't think i'll be adding any/many more.
 
 ### Date
-**MUST** be in this format: `January 1`. 
+**MUST** be in this format: `January 1 2023`. 
 Do not use"Jan 01" or "1st Jan" etc, else the "days until tournament" won't calculate.
 
 ### Entry
@@ -58,7 +58,7 @@ The last object must not have a comma after it.
 
 "Icon":     "FL",
 
-"Date":     "August 5",
+"Date":     "August 5 2023",
 
 "Entry":    "Free",
 
@@ -74,7 +74,7 @@ The last object must not have a comma after it.
 
 "Icon":     "Other",
 
-"Date":     "August 10",
+"Date":     "August 10 1998",
 
 "Entry":    "Paid Entry",
 
