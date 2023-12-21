@@ -2,63 +2,7 @@
     {
         "Name":  "Stardust Locals",
         "Icon":  "STAR",
-        "Date":  "November 4 2023",
-        "Entry": "Free",
-        "Location": "Online",
-        "Link": "https://discord.gg/ashfn8V4NF"
-    },
-    {
-        "Name":  "BigBoyGaming 5K",
-        "Icon":  "Special_BBG_5K",
-        "Date":  "December 9 2023",
-        "Entry": "Paid Entry",
-        "Location": "Smithfield, NC",
-        "Link": "https://admin77623.wixsite.com/bbgevents5k"
-    },
-    {
-        "Name":  "E&T Collectibles",
-        "Icon":  "Other",
-        "Date":  "December 9 2023",
-        "Entry": "$25",
-        "Location": "Online",
-        "Link": "https://collectorsemporium.com/pages/event-calendar"
-    },
-    {
-        "Name":  "Stardust Locals",
-        "Icon":  "STAR",
-        "Date":  "December 11 2023",
-        "Entry": "Free",
-        "Location": "Online",
-        "Link": "https://discord.gg/ashfn8V4NF"
-    },
-    {
-        "Name":  "Collector's Emporium",
-        "Icon":  "Other",
-        "Date":  "December 16 2023",
-        "Entry": "Paid Entry",
-        "Location": "Levittown, NY",
-        "Link": "https://collectorsemporium.com/pages/event-calendar"
-    },    
-    {
-        "Name":  "Edison Format Germany",
-        "Icon":  "Other",
-        "Date":  "December 17 2023",
-        "Entry": "15€",
-        "Location": "Ludwigshafen, Germany",
-        "Link": "https://chat.whatsapp.com/BcpdpQoeYVWJf12UX6RAi8"
-    },    
-    {
-        "Name":  "Heaven's Door (PS5)",
-        "Icon":  "Other",
-        "Date":  "December 17 2023",
-        "Entry": "25€",
-        "Location": "Berlin, Germany",
-        "Link": "https://www.kleinanzeigen.de/s-anzeige/yu-gi-oh-edison-format-ps5-turnier-am-17-12/2622279509-234-3484"
-    },
-    {
-        "Name":  "Stardust Locals",
-        "Icon":  "STAR",
-        "Date":  "December 18 2023",
+        "Date":  "January 8 2023",
         "Entry": "Free",
         "Location": "Online",
         "Link": "https://discord.gg/ashfn8V4NF"
@@ -70,6 +14,14 @@
         "Entry": "$25",
         "Location": "Online",
         "Link": "https://collectorsemporium.com/pages/event-calendar"
+    },
+      {
+        "Name":  "SDS Stardust Dragon Series",
+        "Icon":  "STAR",
+        "Date":  "January 8 2023",
+        "Entry": "Free",
+        "Location": "Online",
+        "Link": "https://discord.gg/ashfn8V4NF"
     },
       {
         "Name":  "On The Draw",
