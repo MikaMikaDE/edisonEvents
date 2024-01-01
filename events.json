@@ -7,14 +7,6 @@
         "Location": "Online",
         "Link": "https://discord.gg/ashfn8V4NF"
     },
-    {
-        "Name":  "E&T Collectibles",
-        "Icon":  "Other",
-        "Date":  "January 13 2024",
-        "Entry": "$25",
-        "Location": "Online",
-        "Link": "https://www.facebook.com/ETCollectibles1/"
-    },
       {
         "Name":  "Stardust Dragon Series",
         "Icon":  "STAR",
@@ -30,6 +22,14 @@
         "Entry": "$20",
         "Location": "Pottstown PA",
         "Link": "https://fb.me/e/4CllOfjeh"
+    },
+     {
+        "Name":  "E&T Collectibles",
+        "Icon":  "Other",
+        "Date":  "February 3 2024",
+        "Entry": "$25",
+        "Location": "Online",
+        "Link": "https://www.facebook.com/ETCollectibles1/"
     },
     {
         "Name":  "Underground Games",
