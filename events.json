@@ -11,15 +11,23 @@
         "Name":  "Underground Games",
         "Icon":  "Other",
         "Date":  "February 3 2024",
-        "Entry": "???",
+        "Entry": "Unknown Entry Fee",
         "Location": "Copperas Cove, TX",
         "Link": "https://discord.com/invite/H5w54cK4"
+    },
+     {
+        "Name":  "PEAK BEAK 5",
+        "Icon":  "BEAK",
+        "Date":  "February 8 2024",
+        "Entry": "Free Entry",
+        "Location": "Online",
+        "Link": "https://discord.com/events/414551319031054346/1203109957877104673"
     },
     {
         "Name":  "Deck Devastators 6",
         "Icon":  "DDEV",
         "Date":  "February 17 2024",
-        "Entry": "Free",
+        "Entry": "Free Entry",
         "Location": "Edisonformat.com",
         "Link": "https://discord.com/invite/rceESCvNkf"
     }
