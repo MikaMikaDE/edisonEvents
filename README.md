@@ -18,11 +18,17 @@ Try for 1 line of text if possible. Sometimes a 2nd line is unavoidable.
 
 ### Icon
 - "FL"    - Format Library background image
+- "EWC2"  - Specifically Edison World Championship 2 (honest) background image
+- "STAR"  - Stardust   background image (for Stardust Locals / the new HRCx events)
+- "BEAK"  - Icarus     background image (for Peak Beak)
+- "DARK"  - HaDes      background image (for Dark Tournament; now unused)
 - "RBET"  - Substitoad background image
-- "DDEV"  - Deck Dev background image
-- "Other" - Quickdraw background image
-- "KONAMI"- Konami background image. Used for Ultimate Time Wizard. 
-For very large/special events (like the ultimate time wizard) you can contact me to make a new one.
+- "DDEV"  - Deck Dev   background image
+- "Other" - Quickdraw  background image
+- "KONAMI"- Konami background image. Used for Ultimate Time Wizard.
+- 
+For very large/special events (like the ultimate time wizard or BBG 5k) you can contact me to make a new one.
+
 Don't think i'll be adding any/many more.
 
 ### Date
