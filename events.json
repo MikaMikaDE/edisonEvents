@@ -30,6 +30,38 @@
         "Entry": "Free Entry",
         "Location": "Edisonformat.com",
         "Link": "https://discord.com/invite/rceESCvNkf"
+    },
+    {
+        "Name":  "Ultimate Time Wizard 3v3",
+        "Icon":  "Konami",
+        "Date":  "February 24 2024",
+        "Entry": "Unknown Entry Fee",
+        "Location": "Las Vegas, NV",
+        "Link": "https://www.yugioh-card.com/en/events-item/2024-ycs-lasvegas/"
+    },
+    {
+        "Name":  "Really Big Edison Tournament EU 2",
+        "Icon":  "RBET",
+        "Date":  "March 2 2024",
+        "Entry": "Free Entry",
+        "Location": "Really Big Yugioh Discord",
+        "Link": "https://discord.gg/NCRytQKdzE"
+    },
+    {
+        "Name":  "Really Big Edison Tournament 9",
+        "Icon":  "RBET",
+        "Date":  "March 23 2024",
+        "Entry": "Free Entry",
+        "Location": "Really Big Yugioh Discord",
+        "Link": "https://discord.gg/NCRytQKdzE"
+    },
+    {
+        "Name":  "Edison World Championship Qualifier 5",
+        "Icon":  "EWCQ",
+        "Date":  "March 30 2024",
+        "Entry": "Free Entry",
+        "Location": "Fromat Library",
+        "Link": "https://discord.gg/format-library-414551319031054346"
     }
   
  ]
