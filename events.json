@@ -39,7 +39,7 @@
         "Location": "Really Big Yugioh Discord",
         "Link": "https://discord.gg/NCRytQKdzE"
     },
-     {
+    {
         "Name":  "Edison World Championship Qualifier 6",
         "Icon":  "EWC2",
         "Date":  "May 5 2024",
@@ -63,7 +63,7 @@
         "Location": "Fromat Library",
         "Link": "https://discord.gg/format-library-414551319031054346"
     },
-     {
+    {
         "Name":  "Edison World Championship Qualifier 8",
         "Icon":  "EWC2",
         "Date":  "July 27 2024",
@@ -87,13 +87,13 @@
         "Location": "Really Big Yugioh Discord",
         "Link": "https://discord.gg/NCRytQKdzE"
     },
-     {
+    {
         "Name":  "Edison World Championship 2024",
         "Icon":  "Special_FL_WORLDS",
         "Date":  "December 28 2024",
         "Entry": "Invitational",
         "Location": "Fromat Library",
         "Link": "https://discord.gg/format-library-414551319031054346"
-    },
+    }
   
  ]
