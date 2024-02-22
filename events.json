@@ -1,36 +1,4 @@
  [
-     {
-        "Name":  "E&T Collectibles",
-        "Icon":  "Other",
-        "Date":  "February 3 2024",
-        "Entry": "$25",
-        "Location": "Online",
-        "Link": "https://www.facebook.com/ETCollectibles1/"
-    },
-    {
-        "Name":  "Underground Games",
-        "Icon":  "Other",
-        "Date":  "February 3 2024",
-        "Entry": "Unknown Entry Fee",
-        "Location": "Copperas Cove, TX",
-        "Link": "https://discord.com/invite/H5w54cK4"
-    },
-     {
-        "Name":  "PEAK BEAK 5",
-        "Icon":  "BEAK",
-        "Date":  "February 8 2024",
-        "Entry": "Free Entry",
-        "Location": "FormatLibrary.com",
-        "Link": "https://discord.com/events/414551319031054346/1203109957877104673"
-    },
-    {
-        "Name":  "Deck Devastators 6",
-        "Icon":  "DDEV",
-        "Date":  "February 17 2024",
-        "Entry": "Free Entry",
-        "Location": "Edisonformat.com",
-        "Link": "https://discord.com/invite/rceESCvNkf"
-    },
     {
         "Name":  "Ultimate Time Wizard 3v3",
         "Icon":  "Konami",
@@ -62,6 +30,46 @@
         "Entry": "Free Entry",
         "Location": "Fromat Library",
         "Link": "https://discord.gg/format-library-414551319031054346"
-    }
+    },
+    {
+        "Name":  "Really Big Edison Tournament EU 3",
+        "Icon":  "RBET",
+        "Date":  "April 27, 2024",
+        "Entry": "Free Entry",
+        "Location": "Really Big Yugioh Discord",
+        "Link": "https://discord.gg/NCRytQKdzE"
+    },
+    {
+        "Name":  "Really Big Edison Tournament 10",
+        "Icon":  "RBET",
+        "Date":  "June 8, 2024",
+        "Entry": "Free Entry",
+        "Location": "Really Big Yugioh Discord",
+        "Link": "https://discord.gg/NCRytQKdzE"
+    },
+    {
+        "Name":  "RBET Xanadu",
+        "Icon":  "RBET",
+        "Date":  "June 8, 2024",
+        "Entry": "Unknown",
+        "Location": "Xanadu Games",
+        "Link": "https://www.facebook.com/XanaduGames/"
+    },
+    {
+        "Name":  "RBET Collector's Emporium",
+        "Icon":  "RBET",
+        "Date":  "September 21, 2024",
+        "Entry": "Unknown",
+        "Location": "Collector's Emporium",
+        "Link": "https://collectorsemporium.com/"
+    },
+    {
+        "Name":  "RBET Rulers",
+        "Icon":  "Special_RBET_RULERS",
+        "Date":  "November 23, 2024",
+        "Entry": "Invitational",
+        "Location": "Really Big Yugioh Discord",
+        "Link": "https://discord.gg/NCRytQKdzE"
+    },
   
  ]
