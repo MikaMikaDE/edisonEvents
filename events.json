@@ -39,13 +39,13 @@
         "Location": "Really Big Yugioh Discord",
         "Link": "https://discord.gg/NCRytQKdzE"
     },
-    {
-        "Name":  "Really Big Edison Tournament 10",
-        "Icon":  "RBET",
-        "Date":  "June 8, 2024",
+     {
+        "Name":  "Edison World Championship Qualifier 6",
+        "Icon":  "EWC2",
+        "Date":  "May 5 2024",
         "Entry": "Free Entry",
-        "Location": "Really Big Yugioh Discord",
-        "Link": "https://discord.gg/NCRytQKdzE"
+        "Location": "Fromat Library",
+        "Link": "https://discord.gg/format-library-414551319031054346"
     },
     {
         "Name":  "RBET Xanadu",
@@ -54,6 +54,22 @@
         "Entry": "Unknown",
         "Location": "Xanadu Games",
         "Link": "https://www.facebook.com/XanaduGames/"
+    },
+    {
+        "Name":  "Edison World Championship Qualifier 7",
+        "Icon":  "EWC2",
+        "Date":  "June 29 2024",
+        "Entry": "Free Entry",
+        "Location": "Fromat Library",
+        "Link": "https://discord.gg/format-library-414551319031054346"
+    },
+     {
+        "Name":  "Edison World Championship Qualifier 8",
+        "Icon":  "EWC2",
+        "Date":  "July 27 2024",
+        "Entry": "Free Entry",
+        "Location": "Fromat Library",
+        "Link": "https://discord.gg/format-library-414551319031054346"
     },
     {
         "Name":  "RBET Collector's Emporium",
@@ -70,6 +86,14 @@
         "Entry": "Invitational",
         "Location": "Really Big Yugioh Discord",
         "Link": "https://discord.gg/NCRytQKdzE"
+    },
+     {
+        "Name":  "Edison World Championship 2024",
+        "Icon":  "Special_FL_WORLDS",
+        "Date":  "December 28 2024",
+        "Entry": "Invitational",
+        "Location": "Fromat Library",
+        "Link": "https://discord.gg/format-library-414551319031054346"
     },
   
  ]
