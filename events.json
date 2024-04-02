@@ -8,12 +8,12 @@
         "Link": "https://discord.gg/format-library-414551319031054346"
     },
     {
-        "Name":  "Really Big Edison Tournament EU 3",
+        "Name":  "RBET (EU Time)",
         "Icon":  "RBET",
         "Date":  "April 27 2024",
         "Entry": "Free Entry",
         "Location": "Really Big Yugioh Discord",
-        "Link": "https://discord.gg/NCRytQKdzE"
+        "Link": "https://discord.gg/46KmeDBn"
     },
     {
         "Name":  "Edison World Championship Qualifier 6",
@@ -32,12 +32,20 @@
         "Link": "https://discord.gg/CqzxKezA?event=1221541380590014606"
     },
     {
-        "Name":  "RBET Xanadu",
+        "Name":  "RBET (NA Time)",
         "Icon":  "RBET",
         "Date":  "June 8 2024",
-        "Entry": "Unknown",
-        "Location": "Xanadu Games",
-        "Link": "https://www.facebook.com/XanaduGames/"
+        "Entry": "Free Entry",
+        "Location": "Online",
+        "Link": "https://discord.gg/46KmeDBn"
+    },
+    {
+        "Name":  "RBET IRL (Los Angeles)",
+        "Icon":  "RBET",
+        "Date":  "June 15 2024",
+        "Entry": "$40",
+        "Location": "Rancho Cucamonga, CA",
+        "Link": "https://docs.google.com/forms/d/e/1FAIpQLSdoTwZOeg5XId4YAsMnMZLdP603TZSLucVwY3Ln6sGmU2hFow/viewform"
     },
     {
         "Name":  "Edison World Championship Qualifier 7",
@@ -56,12 +64,20 @@
         "Link": "https://discord.gg/format-library-414551319031054346"
     },
     {
-        "Name":  "RBET Collector's Emporium",
+        "Name":  "RBET IRL (Maryland)",
         "Icon":  "RBET",
-        "Date":  "September 21 2024",
-        "Entry": "Unknown",
-        "Location": "Collector's Emporium",
-        "Link": "https://collectorsemporium.com/"
+        "Date":  "August 3 2024",
+        "Entry": "$40",
+        "Location": "Laurel, MD",
+        "Link": "https://feelgoodgaming.squarespace.com/store/p/rbet-laurel-pre-registration"
+    },
+    {
+        "Name":  "RBET IRL (New York)",
+        "Icon":  "RBET",
+        "Date":  "September 1 2024",
+        "Entry": "$40",
+        "Location": "Levittown, NY",
+        "Link": "https://docs.google.com/forms/d/e/1FAIpQLSe8z1LBXx-GJsYjMp2cavTJeeUB3HuW7lV9gZMuSDT9YsWyhA/viewform"
     },
     {
         "Name":  "RBET Rulers",
@@ -69,7 +85,7 @@
         "Date":  "November 23 2024",
         "Entry": "Invitational",
         "Location": "Really Big Yugioh Discord",
-        "Link": "https://discord.gg/NCRytQKdzE"
+        "Link": "https://discord.gg/46KmeDBn"
     },
     {
         "Name":  "Edison World Championship 2024",
