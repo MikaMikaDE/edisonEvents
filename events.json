@@ -31,7 +31,7 @@
         "Location": "E&Tc Discord Server",
         "Link": "https://discord.gg/zWskcanUU5"
     },
-     {
+    {
         "Name":  "2nd Edison Fiesta (EWCQ)",
         "Icon":  "EWC2",
         "Date":  "May 25 2024",
@@ -40,11 +40,19 @@
         "Link": "https://www.fxistudio.it/praesidium/tournament-details?id=203"
     },
     {
+        "Name":  "10foot Diesel Series",
+        "Icon":  "Other",
+        "Date":  "May 26 2024",
+        "Entry": "Free Entry",
+        "Location": "FancyYGO Discord",
+        "Link": "https://discord.gg/myGMXGRv8Z"
+    },
+    {
         "Name":  "RBET (NA Time)",
         "Icon":  "RBET",
         "Date":  "June 8 2024",
         "Entry": "Free Entry",
-        "Location": "Online",
+        "Location": "Really Big Yugioh Discord",
         "Link": "https://discord.gg/V2JAnWuYcg"
     },
     {
