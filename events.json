@@ -1,28 +1,4 @@
  [
-   {
-        "Name":  "Collectible Exchange Season 3",
-        "Icon":  "Other",
-        "Date":  "September 4 2024",
-        "Entry": "$10",
-        "Location": "Rancho Cucamonga, CA 91730",
-        "Link": "https://www.facebook.com/p/Collectible-Exchange-100077047946571/"
-     },
-     {
-        "Name":  "RBET IRL (New York)",
-        "Icon":  "RBET",
-        "Date":  "September 21 2024",
-        "Entry": "$40",
-        "Location": "Levittown, NY",
-        "Link": "https://docs.google.com/forms/d/e/1FAIpQLSe8z1LBXx-GJsYjMp2cavTJeeUB3HuW7lV9gZMuSDT9YsWyhA/viewform"
-    },
-    {
-        "Name":"The Ultimate Time Wizard (3v3)",
-        "Icon":"Other",
-        "Date":"September 24 2024",
-        "Entry":"$75 (per team)",
-        "Location":"Rancho Cucamonga, CA",
-        "Link":"https://www.facebook.com/p/Collectible-Exchange-100077047946571/"
-    },
     {
         "Name":  "Deck Devastators 3v3",
         "Icon":  "DDEV",
@@ -30,6 +6,30 @@
         "Entry": "$40 (per player)",
         "Location": "Oviedo, FL",
         "Link": "https://docs.google.com/document/u/1/d/1ndmLBgNz6sfZB2dkU2jK0qbxl2meWBvECfTKn9eZFRI/pub"
+    },
+    {
+        "Name":  "EWCQ Minneapolis (Charity)",
+        "Icon":  "FL",
+        "Date":  "October 26 2024",
+        "Entry": "$25",
+        "Location": "Bloomington, MN",
+        "Link": "https://www.facebook.com/events/975156184415054/?rdid=mVle5rnIZRYfTA12&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fyz9Nsh7mtif2Gwpb%2F"
+    },
+    {
+        "Name":  "EWCQ St. Louis",
+        "Icon":  "FL",
+        "Date":  "October 26 2024",
+        "Entry": "$20",
+        "Location": "Saint Peters, MO",
+        "Link": "https://www.facebook.com/events/1846643399411807"
+    },
+    {
+        "Name":  "EWCQ Turin",
+        "Icon":  "FL",
+        "Date":  "November 10 2024",
+        "Entry": "$15",
+        "Location": "Turin, Italy",
+        "Link": "https://docs.google.com/forms/d/e/1FAIpQLSfI-bEn78mH0FYLk_MOINpYqX7u-vT5JTa2ZHg_xiFzCGfZRg/viewform"
     },
     {
         "Name":  "RBET Rulers",
