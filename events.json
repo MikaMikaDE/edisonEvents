@@ -32,12 +32,28 @@
         "Link": "https://discord.gg/V2JAnWuYcg"
     },
     {
+        "Name":"Peak of the Beak 8",
+        "Icon":"BEAK",
+        "Date":"December 02 2024",
+        "Entry":"Free",
+        "Location":"Online",
+        "Link":"https://discord.gg/formatlibrary"
+    }
+    {
         "Name":  "Edison World Championship 2024",
         "Icon":  "Special_FL_WORLDS_2023",
         "Date":  "December 7 2024",
         "Entry": "Invitational",
         "Location": "Format Library",
         "Link": "https://discord.gg/format-library-414551319031054346"
-    }
+    },
+    {
+        "Name":"RBET 5 Season 3",
+        "Icon":"RBET",
+        "Date":"December 09 2024",
+        "Entry":"Free",
+        "Location":"Online",
+        "Link":"https://discord.gg/V2JAnWuYcg"
+  }
   
  ]
