@@ -1,41 +1,25 @@
  [
-    {
-        "Name":  "EWCQ Minneapolis (Charity)",
-        "Icon":  "FL",
-        "Date":  "October 26 2024",
-        "Entry": "$25",
-        "Location": "Bloomington, MN",
-        "Link": "https://www.facebook.com/events/975156184415054/?rdid=mVle5rnIZRYfTA12&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fyz9Nsh7mtif2Gwpb%2F"
+     {
+        "Name":"Edison Worlds LCQ #1",
+        "Icon":"FL",
+        "Date":"November 29 2024",
+        "Entry":"11.99 USD",
+        "Location":"Online",
+        "Link":"https://discord.gg/formatlibrary"
     },
     {
-        "Name":  "EWCQ St. Louis",
-        "Icon":  "FL",
-        "Date":  "October 26 2024",
-        "Entry": "$20",
-        "Location": "Saint Peters, MO",
-        "Link": "https://www.facebook.com/events/1846643399411807"
+        "Name":"Edison Worlds LCQ #2",
+        "Icon":"FL",
+        "Date":"December 7 2024",
+        "Entry":"11.99 USD",
+        "Location":"Online",
+        "Link":"https://discord.gg/formatlibrary"
     },
     {
-        "Name":  "EWCQ Turin",
-        "Icon":  "FL",
-        "Date":  "November 10 2024",
-        "Entry": "$15",
-        "Location": "Turin, Italy",
-        "Link": "https://docs.google.com/forms/d/e/1FAIpQLSfI-bEn78mH0FYLk_MOINpYqX7u-vT5JTa2ZHg_xiFzCGfZRg/viewform"
-    },
-    {
-        "Name":  "RBET Rulers",
-        "Icon":  "Special_RBET_RULERS",
-        "Date":  "November 23 2024",
-        "Entry": "Invitational",
-        "Location": "Really Big Yugioh Discord",
-        "Link": "https://discord.gg/V2JAnWuYcg"
-    },
-    {
-        "Name":"Peak of the Beak 8",
-        "Icon":"BEAK",
-        "Date":"December 02 2024",
-        "Entry":"Free",
+        "Name":"Edison Worlds LCQ #3",
+        "Icon":"FL",
+        "Date":"December 7 2024",
+        "Entry":"11.99 USD",
         "Location":"Online",
         "Link":"https://discord.gg/formatlibrary"
     },
