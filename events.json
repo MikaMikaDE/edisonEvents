@@ -1,28 +1,4 @@
  [
-     {
-        "Name":"Edison Worlds LCQ #1",
-        "Icon":"FL",
-        "Date":"November 29 2024",
-        "Entry":"11.99 USD",
-        "Location":"Online",
-        "Link":"https://discord.gg/formatlibrary"
-    },
-    {
-        "Name":"Edison Worlds LCQ #2",
-        "Icon":"FL",
-        "Date":"December 7 2024",
-        "Entry":"11.99 USD",
-        "Location":"Online",
-        "Link":"https://discord.gg/formatlibrary"
-    },
-    {
-        "Name":"Edison Worlds LCQ #3",
-        "Icon":"FL",
-        "Date":"December 8 2024",
-        "Entry":"11.99 USD",
-        "Location":"Online",
-        "Link":"https://discord.gg/formatlibrary"
-    },
     {
         "Name":  "Edison World Championship 2024",
         "Icon":  "Special_FL_WORLDS_2023",
@@ -30,14 +6,5 @@
         "Entry": "Invitational",
         "Location": "Format Library",
         "Link": "https://discord.gg/format-library-414551319031054346"
-    },
-    {
-        "Name":"RBET 5 Season 3",
-        "Icon":"RBET",
-        "Date":"December 09 2024",
-        "Entry":"Free",
-        "Location":"Online",
-        "Link":"https://discord.gg/V2JAnWuYcg"
-  }
-  
+    }
  ]
