@@ -1,10 +1,50 @@
  [
     {
-        "Name":  "Edison World Championship 2024",
-        "Icon":  "Special_FL_WORLDS_2023",
-        "Date":  "December 14 2024",
-        "Entry": "Invitational",
+        "Name":  "Edison WCQ",
+        "Icon":  "FL",
+        "Date":  "February 15 2025",
+        "Entry": "Free",
         "Location": "Format Library",
         "Link": "https://discord.gg/format-library-414551319031054346"
-    }
+    },
+    {
+        "Name":  "Edison WCQ",
+        "Icon":  "FL",
+        "Date":  "May 17 2025",
+        "Entry": "Free",
+        "Location": "Format Library",
+        "Link": "https://discord.gg/format-library-414551319031054346"
+    },
+    {
+        "Name":  "Peak of the Beak 9",
+        "Icon":  "FL",
+        "Date":  "May 20 2025",
+        "Entry": "Free",
+        "Location": "Format Library",
+        "Link": "https://discord.gg/format-library-414551319031054346"
+    },
+     {
+        "Name":  "Edison WCQ",
+        "Icon":  "FL",
+        "Date":  "September 6 2025",
+        "Entry": "Free",
+        "Location": "Format Library",
+        "Link": "https://discord.gg/format-library-414551319031054346"
+    },
+     {
+        "Name":  "Peak of the Beak 10",
+        "Icon":  "FL",
+        "Date":  "September 9 2025",
+        "Entry": "Free",
+        "Location": "Format Library",
+        "Link": "https://discord.gg/format-library-414551319031054346"
+    },
+     {
+        "Name":  "Edison WORLD CHAMPIONSHIP",
+        "Icon":  "Special_FL_WORLDS",
+        "Date":  "December 13 2025",
+        "Entry": "Free",
+        "Location": "Format Library",
+        "Link": "https://discord.gg/format-library-414551319031054346"
+    },
  ]
